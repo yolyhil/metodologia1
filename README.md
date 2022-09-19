@@ -5,3 +5,5 @@ i love:, icecream:, dog:,
 i like roses:,
 
 fin de practica1
+
+seguimos trabajando  en  el  primer repositorio
